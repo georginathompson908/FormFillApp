@@ -20,6 +20,14 @@
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br>
+
+    <label for="mother"><b>Mother</b></label>
+    <input type="text" placeholder="Mother Name" name="mother" id="mother" required>
+    <br>
+
+    <label for="psw-repeat"><b>Repeat Password</b></label>
+    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+    <br>
     <button type="submit" class="registerbtn">Register</button>
   </div>
 
